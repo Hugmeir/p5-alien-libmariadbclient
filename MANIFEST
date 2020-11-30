@@ -9,3 +9,4 @@ t/pod-coverage.t
 t/pod.t
 alienfile
 ignore.txt
+patch/0001-statically-link-against-auth-plugins.patch
